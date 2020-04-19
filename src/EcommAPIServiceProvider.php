@@ -21,7 +21,7 @@ class EcommAPIServiceProvider extends ServiceProvider
              return new EcommAPI();
         });
 
-		AliasLoader::getInstance()->alias('EcommAPI', 'FavourUp\EcommAPI\Facades\EcommAPI');
+		// AliasLoader::getInstance()->alias('EcommAPI', 'FavourUp\EcommAPI\Facades\EcommAPI');
 
 	}
 
