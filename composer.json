@@ -24,7 +24,7 @@
                 "FavourUp\\EcommAPI\\EcommAPIServiceProvider"
             ],
             "aliases": {
-                "EcommAPI": "FavourUp\\EcommAPI\\Facade"
+                "EcommAPI": "FavourUp\\EcommAPI\\Facades\\EcommAPI"
             }
         }
     }
